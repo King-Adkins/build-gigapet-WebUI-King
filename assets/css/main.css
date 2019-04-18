@@ -1581,7 +1581,7 @@ input, select, textarea {
 			width: auto;
 			left: 1.75em;
 			top: 1.75em;
-			margin: -4.5em 0 4.25em -3.5em;
+			margin: 0;
 		}
 
 		.box.post header {
@@ -2158,7 +2158,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/pic01.jpg");
+		background: #CCE8F4;
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
@@ -2881,3 +2881,5 @@ input, select, textarea {
 			}
 
 	}
+
+	
