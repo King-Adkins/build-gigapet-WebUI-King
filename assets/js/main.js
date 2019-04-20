@@ -62,3 +62,12 @@
 				});
 
 })(jQuery);
+
+const moreBtn = document.querySelectorAll('.actions');
+
+for(let i = 0; i < moreBtn.length; i++) {
+	moreBtn[i].addEventListener('click', (event) => {
+		event.target.style.backgroundColor = 'black'
+		
+	});
+}

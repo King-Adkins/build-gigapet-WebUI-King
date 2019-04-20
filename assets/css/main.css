@@ -83,8 +83,8 @@ input, select, textarea {
 	}
 
 	body {
-		background: #252122;
-		background-image: url("https://i.ibb.co/pbHrvw4/virtualpet-copy.png");
+		background: white;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1698,7 +1698,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 25%;
 		}
 
 		.image.centered {
@@ -1708,7 +1708,7 @@ input, select, textarea {
 
 			.image.centered img {
 				margin: 0 auto;
-				width: auto;
+				width: 25%;
 			}
 
 		.image.featured {
